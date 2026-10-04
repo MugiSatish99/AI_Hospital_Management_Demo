@@ -1,0 +1,8 @@
+{
+    "dataset_name": "india_hospital_directory",
+    "version": "1.0",
+    "total_records": 24,
+    "last_checked": "2026-08-23",
+    "source": "Government of India Open Government Data Portal (data.gov.in)",
+    "license": "Government Open Data License - India"
+}

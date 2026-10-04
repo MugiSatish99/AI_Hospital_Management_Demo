@@ -1,0 +1,13 @@
+streamlit
+pillow
+numpy
+pandas
+speechrecognition
+streamlit-mic-recorder
+groq
+python-dotenv
+pytesseract
+mediapipe
+opencv-python
+fpdf2
+twilio

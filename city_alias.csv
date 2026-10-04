@@ -1,0 +1,299 @@
+alias,actual_city
+vizag,visakhapatnam
+vskp,visakhapatnam
+visaka,visakhapatnam
+vizag city,visakhapatnam
+waltair,visakhapatnam
+vja,vijayawada
+bezawada,vijayawada
+gnt,guntur
+rjy,rajahmundry
+kkd,kakinada
+tpty,tirupati
+nlr,nellore
+hyd,hyderabad
+hyd city,hyderabad
+sec bad,secunderabad
+secunderabad,secunderabad
+wgl,warangal
+knr,karimnagar
+kmm,khammam
+nzb,nizamabad
+mbnr,mahabubnagar
+blr,bengaluru
+bangalore,bengaluru
+bengaluru city,bengaluru
+mysore,mysuru
+hubli,hubballi
+mangalore,mangaluru
+mumbai city,mumbai
+bombay,mumbai
+bom,mumbai
+puna,pune
+pune city,pune
+nashik,nasik
+nagpur city,nagpur
+delhi,new delhi
+new delhi,new delhi
+delhi ncr,new delhi
+ncr,new delhi
+gurgaon,gurugram
+ggn,gurugram
+noida,noida
+faridabad,faridabad
+madras,chennai
+chennai city,chennai
+trichy,tiruchirappalli
+tiruchi,tiruchirappalli
+kovai,coimbatore
+cbe,coimbatore
+nellai,tirunelveli
+tanjore,thanjavur
+pondy,puducherry
+pondicherry,puducherry
+kochi,kochi
+cochin,kochi
+trivandrum,thiruvananthapuram
+tvm,thiruvananthapuram
+calicut,kozhikode
+alleppey,alappuzha
+calcutta,kolkata
+kolkata city,kolkata
+howrah,howrah
+bbsr,bhubaneswar
+bhubaneshwar,bhubaneswar
+ctc,cuttack
+amd,ahmedabad
+ahmd,ahmedabad
+baroda,vadodara
+surat city,surat
+rajkot city,rajkot
+jodhpur city,jodhpur
+jaipur city,jaipur
+udaipur city,udaipur
+ajmer city,ajmer
+benaras,varanasi
+banaras,varanasi
+kashi,varanasi
+allahabad,prayagraj
+prayag,prayagraj
+lucknow city,lucknow
+kanpur city,kanpur
+agra city,agra
+bareilly city,bareilly
+patna city,patna
+gaya city,gaya
+ranchi city,ranchi
+jamshedpur,tatanagar
+tata nagar,jamshedpur
+dhanbad city,dhanbad
+raipur city,raipur
+bilaspur city,bilaspur
+bhopal city,bhopal
+indore city,indore
+gwalior city,gwalior
+jabalpur city,jabalpur
+chandigarh city,chandigarh
+ldh,ludhiana
+amritsar city,amritsar
+jalandhar city,jalandhar
+patiala city,patiala
+shimla city,shimla
+dharamshala city,dharamshala
+jammu city,jammu
+srinagar city,srinagar
+leh city,leh
+guwahati city,guwahati
+gauhati,guwahati
+shillong city,shillong
+agartala city,agartala
+aizawl city,aizawl
+kohima city,kohima
+imphal city,imphal
+itanagar city,itanagar
+panaji,goa
+panjim,goa
+margao,goa
+vasco,goa
+dehradun city,dehradun
+doon,dehradun
+rishikesh city,rishikesh
+haridwar city,haridwar
+visakhapatnam,visakhapatnam
+chennai,chennai
+maa,chennai
+vellore,vellore
+hyderabad,hyderabad
+cyberabad,hyderabad
+bengaluru,bengaluru
+mumbai,mumbai
+navimumbai,mumbai
+navi mumbai,mumbai
+pune,pune
+gurugram,gurugram
+chandigarh,chandigarh
+mohali,mohali
+jaipur,jaipur
+kolkata,kolkata
+ccu,kolkata
+cuttack,cuttack
+bhubaneswar,bhubaneswar
+ahmedabad,ahmedabad
+bhopal,bhopal
+indore,indore
+raipur,raipur
+varanasi,varanasi
+lucknow,lucknow
+ranchi,ranchi
+patna,patna
+puducherry,puducherry
+goa,goa
+nagpur,nagpur
+rishikesh,rishikesh
+dehradun,dehradun
+mysuru,mysuru
+mangaluru,mangaluru
+manipal,manipal
+udupi,udupi
+bibinagar,bibinagar
+warangal,warangal
+adilabad,adilabad
+nizamabad,nizamabad
+karimnagar,karimnagar
+khammam,khammam
+tirupati,tirupati
+tpt,tirupati
+kadapa,kadapa
+kurnool,kurnool
+nellore,nellore
+ongole,ongole
+srikakulam,srikakulam
+anantapur,anantapur
+vijayawada,vijayawada
+vga,vijayawada
+gorakhpur,gorakhpur
+jodhpur,jodhpur
+kota,kota
+deoghar,deoghar
+dhanbad,dhanbad
+guwahati,guwahati
+shillong,shillong
+agartala,agartala
+aizawl,aizawl
+kohima,kohima
+imphal,imphal
+itanagar,itanagar
+kalyani,kalyani
+mangalagiri,mangalagiri
+eluru,eluru
+bhimavaram,bhimavaram
+tadepalligudem,tadepalligudem
+machilipatnam,machilipatnam
+guntur,guntur
+tenali,tenali
+narasaraopet,narasaraopet
+chittoor,chittoor
+kakinada,kakinada
+vizianagaram,vizianagaram
+parvathipuram,parvathipuram
+nandyal,nandyal
+hindupur,hindupur
+dharmavaram,dharmavaram
+proddatur,proddatur
+madanapalle,madanapalle
+puttur,puttur
+madurai,madurai
+coimbatore,coimbatore
+salem,salem
+erode,erode
+tirunelveli,tirunelveli
+nagercoil,nagercoil
+dindigul,dindigul
+thanjavur,thanjavur
+kumbakonam,kumbakonam
+cuddalore,cuddalore
+villupuram,villupuram
+tiruvannamalai,tiruvannamalai
+ranipet,ranipet
+hosur,hosur
+karur,karur
+namakkal,namakkal
+sivakasi,sivakasi
+virudhunagar,virudhunagar
+ramanathapuram,ramanathapuram
+karaikudi,karaikudi
+nilgiris,nilgiris
+tenkasi,tenkasi
+bilaspur,bilaspur
+shimla,shimla
+kangra,kangra
+dharamshala,dharamshala
+solan,solan
+mandi,mandi
+kullu,kullu
+manali,manali
+hamirpur,hamirpur
+jammu,jammu
+srinagar,srinagar
+anantnag,anantnag
+baramulla,baramulla
+leh,leh
+bathinda,bathinda
+amritsar,amritsar
+ludhiana,ludhiana
+jalandhar,jalandhar
+patiala,patiala
+rajkot,rajkot
+surat,surat
+vadodara,vadodara
+bhavnagar,bhavnagar
+jamnagar,jamnagar
+yadadri,yadadri
+suryapet,suryapet
+mahabubnagar,mahabubnagar
+sangareddy,sangareddy
+medak,medak
+siddipet,siddipet
+jagtial,jagtial
+kamareddy,kamareddy
+mancherial,mancherial
+newdelhi,new delhi
+tiruchirappalli,tiruchirappalli
+madurai city,madurai city
+maduraicity,madurai city
+srpet,srpet
+sgrdy,sgrdy
+sidipet,sidipet
+mncl,mncl
+kothagudem,kothagudem
+jabalpur,jabalpur
+ajmer,ajmer
+tanuku,tanuku
+ramagundam,ramagundam
+gadwal,gadwal
+guntupalli,guntupalli
+bikaner,bikaner
+sagar,sagar
+gwalior,gwalior
+gandhinagar,gandhinagar
+gudur,gudur
+bodhan,bodhan
+wanaparthy,wanaparthy
+mehsana,mehsana
+rayachoty,rayachoty
+adoni,adoni
+anand,anand
+anakapalle,anakapalle
+dhone,dhone
+nalgonda,nalgonda
+gudivada,gudivada
+rajahmundry,rajahmundry
+rewa,rewa
+chirala,chirala
+guntakal,guntakal
+kavali,kavali
+alwar,alwar
+ujjain,ujjain
+bapatla,bapatla
+udaipur,udaipur
+miryalaguda,miryalaguda

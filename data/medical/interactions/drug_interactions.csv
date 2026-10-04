@@ -1,0 +1,3 @@
+interaction_id,drug_a,drug_b,severity,interaction_effect
+INT-001,Ibuprofen,Aspirin,HIGH,Increased risk of gastrointestinal bleeding
+INT-002,Aspirin,Warfarin,CRITICAL,Severe risk of major bleeding complications

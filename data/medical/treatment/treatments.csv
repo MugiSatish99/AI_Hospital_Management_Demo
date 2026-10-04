@@ -1,0 +1,2 @@
+treatment_id,condition,recommended_therapy,outcome_metrics
+TX-001,Snake Bite,"Antivenom administration, observation",95% survival rate if treated in 4h

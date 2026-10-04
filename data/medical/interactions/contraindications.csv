@@ -1,0 +1,3 @@
+contra_id,drug_name,condition,severity_level,contraindication_details
+CON-001,Ibuprofen,Gastritis,HIGH,May cause or aggravate gastrointestinal ulcers
+CON-002,Aspirin,Asthma,MEDIUM,May trigger aspirin-induced asthma attacks

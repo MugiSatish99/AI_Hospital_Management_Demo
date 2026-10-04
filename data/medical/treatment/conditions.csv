@@ -1,0 +1,2 @@
+condition_id,condition_name,icd10_code,symptoms_list
+COND-001,Gastritis,K29.7,"stomach pain, nausea, bloating"

@@ -1,0 +1,4 @@
+drug_id,drug_name,generic_name,class,indications
+DRUG-001,Paracetamol,Acetaminophen,Analgesic,"Fever, Mild Pain"
+DRUG-002,Ibuprofen,Ibuprofen,NSAID,"Inflammation, Moderate Pain"
+DRUG-003,Aspirin,Acetylsalicylic acid,Antiplatelet,"Pain, Cardiac Prevention"

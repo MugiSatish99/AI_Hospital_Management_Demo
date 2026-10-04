@@ -1,0 +1,3 @@
+allergy_id,allergen,cross_reactive_drugs,safety_warning
+ALL-001,Penicillin,"Amoxicillin, Ampicillin",High cross-reactivity with beta-lactam antibiotics
+ALL-002,Sulfa,Sulfamethoxazole,Avoid sulfamethoxazole combo drugs

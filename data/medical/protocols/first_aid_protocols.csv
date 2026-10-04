@@ -1,0 +1,3 @@
+protocol_id,condition_name,immediate_steps,warnings,language
+protocol_snake_bite,Snake Bite,"Immobilize limb, clean wound, rest.","No tourniquet, no cut.",en
+protocol_heart_attack,Cardiac Emergency,"Chew aspirin, rest, sit down.",Do not exert.,en

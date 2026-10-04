@@ -1,0 +1,37 @@
+symptom,level,issue
+chest pain,HIGH,cardiology
+heart attack,HIGH,cardiology
+stroke,HIGH,neuro
+brain stroke,HIGH,neuro
+unconscious,HIGH,neuro
+seizure,HIGH,neuro
+breathing problem,HIGH,respiratory
+shortness of breath,HIGH,respiratory
+asthma attack,HIGH,respiratory
+heavy bleeding,HIGH,emergency
+accident,HIGH,emergency
+burn,MEDIUM,emergency
+fracture,HIGH,emergency
+head injury,HIGH,emergency
+spinal injury,HIGH,emergency
+poison,HIGH,emergency
+overdose,HIGH,emergency
+electric shock,HIGH,emergency
+drowning,HIGH,emergency
+snake bite,HIGH,emergency
+dog bite,MEDIUM,emergency
+allergy,MEDIUM,emergency
+panic attack,MEDIUM,general
+heat stroke,HIGH,general
+hypothermia,HIGH,general
+fever,LOW,general
+vomiting,LOW,general
+stomach pain,MEDIUM,general
+infection,MEDIUM,general
+skin allergy,LOW,dermatology
+rash,LOW,dermatology
+eye pain,MEDIUM,ophthalmology
+ear pain,LOW,ent
+tooth pain,LOW,dental
+head pain,MEDIUM,neuro
+headache,LOW,neuro

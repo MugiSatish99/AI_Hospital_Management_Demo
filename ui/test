@@ -1,0 +1,3 @@
+from ai import ai_response
+
+print(ai_response("Hello"))

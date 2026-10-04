@@ -1,0 +1,102 @@
+[
+  {
+    "test": "Import app module",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "Invalid login returns None",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "Existing patient user found",
+    "status": "PASS",
+    "details": "prasad"
+  },
+  {
+    "test": "Valid patient login",
+    "status": "FAIL",
+    "details": ""
+  },
+  {
+    "test": "AI full analysis function exists",
+    "status": "FAIL",
+    "details": "diseases.csv file not found"
+  },
+  {
+    "test": "Emergency detection function exists",
+    "status": "FAIL",
+    "details": "diseases.csv file not found"
+  },
+  {
+    "test": "First aid lookup works",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "User location returns floats",
+    "status": "FAIL",
+    "details": ""
+  },
+  {
+    "test": "Hospital recommendation works",
+    "status": "FAIL",
+    "details": "diseases.csv file not found"
+  },
+  {
+    "test": "Doctor assignment works",
+    "status": "FAIL",
+    "details": "diseases.csv file not found"
+  },
+  {
+    "test": "Patient history fetch works",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "Dataset diseases.csv exists",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "Dataset emergency_data.csv exists",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "Dataset first_aid.csv exists",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "Dataset hospitals.csv exists",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "Dataset city_alias.csv exists",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "doctor_images folder has images",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "Streamlit session_state init works",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "User count >=1",
+    "status": "PASS",
+    "details": ""
+  },
+  {
+    "test": "Doctor extra count >=1",
+    "status": "PASS",
+    "details": ""
+  }
+]

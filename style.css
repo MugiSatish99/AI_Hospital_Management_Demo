@@ -1,0 +1,341 @@
+body {
+    background: #f4f8ff;
+}
+
+/* ================= TITLES ================= */
+
+h1, h2, h3 {
+
+    color: #071a44;
+
+    font-weight: 700;
+}
+
+/* ================= BUTTONS ================= */
+
+.stButton > button {
+
+    background:
+        linear-gradient(
+            90deg,
+            #0f62fe,
+            #0057e7
+        );
+
+    color: white;
+
+    border: none;
+
+    border-radius: 12px;
+
+    height: 46px;
+
+    font-weight: 700;
+
+    transition: 0.3s;
+
+    box-shadow:
+        0 8px 20px rgba(0,87,231,0.18);
+}
+
+/* Hover */
+
+.stButton > button:hover {
+
+    background:
+        linear-gradient(
+            90deg,
+            #0057e7,
+            #0047c2
+        );
+
+    color: white;
+
+    transform: translateY(-2px);
+}
+
+/* ================= INPUTS ================= */
+
+.stTextInput input,
+.stTextArea textarea,
+.stSelectbox div,
+.stDateInput input {
+
+    border-radius: 12px !important;
+
+    border:
+        1px solid #dbe4f0 !important;
+
+    background: white !important;
+}
+
+/* ================= SIDEBAR ================= */
+
+section[data-testid="stSidebar"] {
+
+    background:
+        linear-gradient(
+            180deg,
+            #071a44,
+            #0a2a66
+        ) !important;
+
+    color: white !important;
+
+    border-right:
+        1px solid rgba(255,255,255,0.08);
+}
+
+/* ALL SIDEBAR TEXT */
+
+section[data-testid="stSidebar"] * {
+
+    color: white !important;
+}
+
+/* Sidebar Titles */
+
+section[data-testid="stSidebar"] h1,
+section[data-testid="stSidebar"] h2,
+section[data-testid="stSidebar"] h3 {
+
+    color: white !important;
+
+    font-weight: 800 !important;
+}
+
+/* Sidebar Labels */
+
+section[data-testid="stSidebar"] label,
+section[data-testid="stSidebar"] p,
+section[data-testid="stSidebar"] span,
+section[data-testid="stSidebar"] div {
+
+    color: white !important;
+
+    font-weight: 600 !important;
+}
+
+/* Radio Buttons */
+
+.stRadio label {
+
+    color: white !important;
+
+    font-size: 18px !important;
+}
+
+/* Navigation Menu */
+
+.stRadio div[role="radiogroup"] label[data-baseweb="radio"] {
+
+    background:
+        rgba(255,255,255,0.06);
+
+    padding: 12px;
+
+    border-radius: 12px;
+
+    margin-bottom: 10px;
+
+    transition: 0.3s;
+}
+
+/* Active Menu Hover */
+
+.stRadio div[role="radiogroup"] label[data-baseweb="radio"]:hover {
+
+    background:
+        rgba(255,255,255,0.12);
+}
+
+/* Sidebar Buttons */
+
+section[data-testid="stSidebar"] .stButton > button {
+
+    background:
+        linear-gradient(
+            90deg,
+            #0f62fe,
+            #0057e7
+        );
+
+    color: white !important;
+
+    border: none;
+}
+
+/* ================= METRICS ================= */
+
+div[data-testid="stMetric"] {
+
+    background: white;
+
+    padding: 16px;
+
+    border-radius: 16px;
+
+    box-shadow:
+        0 8px 20px rgba(0,0,0,0.06);
+}
+
+/* ================= TABLES ================= */
+
+[data-testid="stDataFrame"] {
+
+    border-radius: 14px;
+
+    overflow: hidden;
+
+    border:
+        1px solid #dbe4f0;
+}
+
+/* ================= ALERTS ================= */
+
+.stSuccess,
+.stWarning,
+.stError,
+.stInfo {
+
+    border-radius: 12px;
+}
+
+/* ================= CARDS ================= */
+
+.details-box {
+
+    background:
+        rgba(255,255,255,0.95);
+
+    border-radius: 20px;
+
+    padding: 20px;
+
+    box-shadow:
+        0 10px 24px rgba(0,0,0,0.06);
+
+    border:
+        1px solid #e3ebf5;
+}
+
+/* ================= DOCTOR CARD ================= */
+
+.doctor-name {
+
+    font-size: 20px;
+
+    font-weight: 800;
+
+    color: #071a44;
+}
+
+.doctor-spec {
+
+    color: #2563eb;
+
+    font-weight: 700;
+}
+
+/* ================= PROFILE ================= */
+
+.profile-title {
+
+    font-size: 28px;
+
+    font-weight: 900;
+
+    color: #071a44;
+
+    margin-bottom: 10px;
+}
+
+.profile-info {
+
+    font-size: 16px;
+
+    color: #26456d;
+
+    margin-bottom: 10px;
+}
+
+/* ================= DASHBOARD CARDS ================= */
+
+.dashboard-card {
+
+    background: white;
+
+    padding: 20px;
+
+    border-radius: 20px;
+
+    box-shadow:
+        0 10px 24px rgba(0,0,0,0.06);
+
+    border:
+        1px solid #e4ecf7;
+
+    margin-bottom: 20px;
+}
+
+/* ================= CHAT ================= */
+
+.chat-box {
+
+    background: white;
+
+    border-radius: 16px;
+
+    padding: 16px;
+
+    box-shadow:
+        0 6px 18px rgba(0,0,0,0.05);
+}
+
+/* ================= IMAGE ================= */
+
+img {
+
+    border-radius: 16px;
+}
+
+/* ================= SCROLLBAR ================= */
+
+::-webkit-scrollbar {
+
+    width: 10px;
+}
+
+::-webkit-scrollbar-track {
+
+    background: #eef3fb;
+}
+
+::-webkit-scrollbar-thumb {
+
+    background: #0f62fe;
+
+    border-radius: 10px;
+}
+
+/* ================= MOBILE ================= */
+
+@media (max-width: 768px) {
+
+    .main .block-container {
+
+        padding-left: 1rem !important;
+
+        padding-right: 1rem !important;
+    }
+
+    h1 {
+
+        font-size: 28px !important;
+    }
+
+    h2 {
+
+        font-size: 24px !important;
+    }
+}
